@@ -128,3 +128,5 @@ dmypy.json
 # Pyre type checker
 .pyre/
 Class_Materials/.DS_Store
+Class_Materials/MidTerm_Project/.DS_Store
+Class_Materials/MidTerm_Project/Data/.DS_Store
